@@ -1,0 +1,172 @@
+{
+    "data": [{
+        "full_name": "Name: Matt Thomas",
+        "height": "Height: 6'3\"",
+        "position": "Position: Shooting Guard",
+        "date_of_birth": "Date of birth: 08/04/1994",
+        "Years_pro": "Years pro: 2",
+        "weight": "Weight: 190lb",
+        "Years_player": "Age: 27 years",
+        "From": "From: USA",
+        "Bio": "Biographie:",
+        "img": "https://i.ibb.co/x8mPrm7/Matt-Thomas.jpg"
+    },
+    {
+        "full_name": "Name: Derrick Jones ",
+        "height": "Height: 6'6\"",
+        "position": "Position: Small Forward and Power Forward",
+        "date_of_birth": "Date of birth: 02/15/1997",
+        "Years_pro": "Years pro: 5",
+        "weight": "Weight: 210lb",
+        "Years_player": "Age: 25 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/W67x0VV/11024.png"
+    },
+    {
+        "full_name": "Name: Tristan Thompson",
+        "height": "Height: 6'9\"",
+        "position": "Position: Power Forward and Center",
+        "date_of_birth": "Date of birth: 03/13/1991",
+        "Years_pro": "Years pro: 10",
+        "weight": "Weight: 254lb",
+        "Years_player": "Age: 31 years",
+        "From": "From: Canada",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/1r2CQ9n/usa-today-16843119.jpg"
+    },
+    {
+        "full_name": "Name: Lonzo Ball",
+        "height": "Height: 6'6\"",
+        "position": "Position:  Point Guard",
+        "date_of_birth": "Date of birth: 10/27/1997",
+        "Years_pro": "Years pro: 4",
+        "weight": "Weight: 190lb",
+        "Years_player": "Age: 24 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/23Rj03D/4066421.png"
+    },
+    {
+        "full_name": "Name: Nikola Vucevic",
+        "height": "Height: 6'10\"",
+        "position": "Position: Center",
+        "date_of_birth": "Date of birth: 10/24/1990",
+        "Years_pro": "Years pro: 10",
+        "weight": "Weight: 260lb",
+        "Years_player": "Age: 31 years",
+        "From": "From: Montenegro",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/TmgFRV6/202696.png"
+
+    },
+    {
+        "full_name": "Name: Alex Caruso",
+        "height": "Height: 6'5\"'",
+        "position": "Position: Guard and Shooting Guard",
+        "date_of_birth": "Date of birth: 02/28/1994",
+        "Years_pro": "Years pro: 4",
+        "weight": "Weight: 186lb",
+        "Years_player": "Age: 28 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/rb44ZnQ/11383.png"
+    },
+    {
+        "full_name": "Name: Patrick Williams",
+        "height": "Height: 6'7\"",
+        "position": "Position: Power Forward",
+        "date_of_birth": "Date of birth: 08/26/2001",
+        "Years_pro": "Years pro: 1",
+        "weight": "Weight: 215lb",
+        "Years_player": "Age: 20 Years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/WG8z3Y1/13535.png"
+    },
+    {
+        "full_name": "Name: Zach LaVine",
+        "height": "Height: 6'5\"",
+        "position": "Position: Shooting Guard",
+        "date_of_birth": "Date of birth: 03/10/1995",
+        "Years_pro": "Years pro: 7",
+        "weight": "Weight: 200lb",
+        "Years_player": "Age: 27 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/stmXqgw/203897.png"
+    },
+    {
+        "full_name": "Name: DeMar DeRozan",
+        "height": "Height: 6'6\"",
+        "position": "Position: Shooting Guard",
+        "date_of_birth": "Date of birth: 08/07/1959",
+        "Years_pro": "Years pro: 12",
+        "weight": "Weight: 220lb",
+        "Years_player": "Age: 32 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/cCnwsz5/201942.png"
+    },
+    {
+        "full_name": "Name: Javonte Green",
+        "height": "Height: 6'5\"",
+        "position": "Position: Small Forward",
+        "date_of_birth": "Date of birth: 07/23/1993",
+        "Years_pro": "Years pro: 2",
+        "weight": "Weight: 205lb",
+        "Years_player": "Age: 28 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/nzgnR7J/12262.png"
+    },
+    {
+        "full_name": "Name: Coby White",
+        "height": "Height: 6'4\"",
+        "position": "Position: Point Guard",
+        "date_of_birth": "Date of birth: 02/16/2000",
+        "Years_pro": "Years pro: 2",
+        "weight": "Weight: 195lb",
+        "Years_player": "Age: 22 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/M5dhvdw/1629632.png"
+    },
+    {
+        "full_name": "Name: Troy Brown",
+        "height": "Height: 6'6\"",
+        "position": "Position: Small Forward",
+        "date_of_birth": "Date of birth: 07/28/1999",
+        "Years_pro": "Years pro: 3",
+        "weight": "Weight: 215lb",
+        "Years_player": "Age: 22 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/MG9pLsK/Troy-Brown-Jr-rebound-cropped.jpg"
+    },
+    {
+        "full_name": "Name: Tony Bradley",
+        "height": "Height: 6'10\"",
+        "position": "Position: Center",
+        "date_of_birth": "Date of birth: 01/08/1998",
+        "Years_pro": "Years pro: 4",
+        "weight": "Weight: 248lb",
+        "Years_player": "Age: 24 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/9t8n8qS/11439.png"
+    },
+    {
+        "full_name": "Name: Tyler Cook",
+        "height": "Height: 6'8\"",
+        "position": "Position: Power Forward",
+        "date_of_birth": "Date of birth: 09/23/1997",
+        "Years_pro": "Years pro: 2",
+        "weight": "Weight: 255lb",
+        "Years_player": "Age: 24 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/72h6N94/12786.png"
+
+    }]
+}

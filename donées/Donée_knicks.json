@@ -1,0 +1,172 @@
+{
+    "data": [{
+        "full_name": "Name: R.J. Barrett",
+        "height": "Height: 6'6\"",
+        "position": "Position: Shooting Guard",
+        "date_of_birth": "Date of birth: 06/14/2000",
+        "Years_pro": "Years pro: 2",
+        "weight": "Weight: 214lb",
+        "Years_player": "Age: 21 years",
+        "From": "From: Canada",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/GVcxxZf/4395625.png"
+    },
+    {
+        "full_name": "Name: Derrick Rose",
+        "height": "Height: 6'2\"",
+        "position": "Position: Point Guard",
+        "date_of_birth": "Date of birth: 10/04/1988",
+        "Years_pro": "Years pro: 12",
+        "weight": "Weight: 200lb",
+        "Years_player": "Age: 33 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/GVcxxZf/4395625.png"
+    },
+    {
+        "full_name": "Name: Kemba Walker",
+        "height": "Height: 6'0\"",
+        "position": "Position: Point Guard",
+        "date_of_birth": "Date of birth: 05/08/1990",
+        "Years_pro": "Years pro: 10",
+        "weight": "Weight: 184lb",
+        "Years_player": "Age: 31 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/tY5vW2t/6500.png"
+    },
+    {
+        "full_name": "Name: Quentin Grimes",
+        "height": "Height: 6'4\"",
+        "position": "Position: Shooting Guard",
+        "date_of_birth": "Date of birth: 05/08/2000",
+        "Years_pro": "Years pro: Rookie",
+        "weight": "Weight: 210lb",
+        "Years_player": "Age: 21 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/prGmdcy/1629656.png"
+    },
+    {
+        "full_name": "Name: Ryan Arcidiacono",
+        "height": "Height: 6'3\"",
+        "position": "Position: Point Guard",
+        "date_of_birth": "Date of birth: 03/26/1994",
+        "Years_pro": "Years pro: 4",
+        "weight": "Weight: 195lb",
+        "Years_player": "Age: 28 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/XJvtLc2/i.png"
+
+    },
+    {
+        "full_name": "Name: Obi Toppin",
+        "height": "Height: 6'9\"'",
+        "position": "Position: Power Forward",
+        "date_of_birth": "Date of birth: 03/04/1998",
+        "Years_pro": "Years pro: 1",
+        "weight": "Weight: 220lb",
+        "Years_player": "Age: 24 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/hdt9krD/13533.png"
+    },
+    {
+        "full_name": "Name: Cam Reddish",
+        "height": "Height: 6'8\"",
+        "position": "Position: Small Forward",
+        "date_of_birth": "Date of birth: 09/01/1999",
+        "Years_pro": "Years pro: 2",
+        "weight": "Weight: 217lb",
+        "Years_player": "Age: 22 Years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/kD94zxC/1629629.png"
+    },
+    {
+        "full_name": "Name: Julius Randle",
+        "height": "Height: 6'8\"",
+        "position": "Position: Power Forward",
+        "date_of_birth": "Date of birth: 10/29/1994",
+        "Years_pro": "Years pro: 7",
+        "weight": "Weight: 250lb",
+        "Years_player": "Age: 27 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/SyzhMM4/203944.png"
+    },
+    {
+        "full_name": "Name: Evan Fournier",
+        "height": "Height: 6'6\"",
+        "position": "Position: Shooting Guard",
+        "date_of_birth": "Date of birth: 10/29/1992",
+        "Years_pro": "Years pro: 9",
+        "weight": "Weight: 205lb",
+        "Years_player": "Age: 29 years",
+        "From": "From: FRANCE",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/gVvPJ6g/3371.png"
+    },
+    {
+        "full_name": "Name: Immanuel Quickley",
+        "height": "Height: 6'3\"",
+        "position": "Position: Point Guard",
+        "date_of_birth": "Date of birth: 06/17/1999",
+        "Years_pro": "Years pro: 1",
+        "weight": "Weight: 190lb",
+        "Years_player": "Age: 22 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/LPR0zX3/6417.png"
+    },
+    {
+        "full_name": "Name: Miles McBride",
+        "height": "Height: 6'1\"",
+        "position": "Position: Point Guard",
+        "date_of_birth": "Date of birth: 09/08/2000",
+        "Years_pro": "Years pro: Rookie",
+        "weight": "Weight: 195lb",
+        "Years_player": "Age: 21 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/HXqM2Fq/13759.png"
+    },
+    {
+        "full_name": "Name: Nerlens Noel",
+        "height": "Height: 6'11\"",
+        "position": "Position: Center",
+        "date_of_birth": "Date of birth: 04/10/1994",
+        "Years_pro": "Years pro: 7",
+        "weight": "Weight: 220lb",
+        "Years_player": "Age: 28 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/CHPj9d1/9598.png"
+    },
+    {
+        "full_name": "Name: Mitchell Robinson",
+        "height": "Height: 7'0\"",
+        "position": "Position: Center",
+        "date_of_birth": "Date of birth: 04/01/1998",
+        "Years_pro": "Years pro: 3",
+        "weight": "Weight: 240lb",
+        "Years_player": "Age: 24 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/92kqv1z/1629011.png"
+
+    },
+    {
+        "full_name": "Name: Alec Burks",
+        "height": "Height: 6'6\"",
+        "position": "Position: Shooting Guard",
+        "date_of_birth": "Date of birth: 07/20/1991",
+        "Years_pro": "Years pro: 10",
+        "weight": "Weight: 214lb",
+        "Years_player": "Age: 30 years",
+        "From": "From: USA",
+        "Bio": "Biographie: ",
+        "img": "https://i.ibb.co/0mLbXfh/6495.png"
+    }]
+}
